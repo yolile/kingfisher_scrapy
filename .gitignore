@@ -1,0 +1,13 @@
+*.json
+/scrapy.iml
+*.pyc
+_trial_temp*
+dropin.cache
+venv
+build
+.idea
+.coverage
+.pytest_cache/
+.coverage.*
+.cache/
+.pytest_cache/
